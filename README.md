@@ -1,4 +1,4 @@
-# BLEU-ExcelEvaluation
+# BLEU Excel Evaluation
 Simple BLEU MT Excel Evaluator powered with python 👌🐍
 
 ## Prerequisites
@@ -39,8 +39,8 @@ Simple BLEU MT Excel Evaluator powered with python 👌🐍
 Please take note, dont make any changes to 'BLEU Template.xlsm'.
 
 ## Questions?
-  Please feel free leave a [Github Issue] or send me an [Email]
-  Good Luck NLP Geeks! 😀
+Please feel free leave a [Github Issue] or send me an [Email].
+Good Luck NLP Geeks! 😀
   
   [Git]: <https://git-scm.com/download>
   [Python 3]: <https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe>
