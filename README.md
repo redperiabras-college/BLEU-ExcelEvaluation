@@ -23,6 +23,7 @@ Simple BLEU MT Excel Evaluator powered with python 👌🐍
   
 ## How to Run
   1. Replace the initial data included in this repository
+
     a. **sources.data** with input sentences from your evaluation corpus;
     b. **references.data** with the reference translations from your evaluation corpus; and
     c. **hypotheses.data** with the output sentences of your systems.
